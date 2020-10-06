@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Rekursive_Datenstrukturen.iml" filepath="$PROJECT_DIR$/.idea/modules/Rekursive_Datenstrukturen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Verkettete Liste/Kompositum/Rekursive_Datenstrukturen.Verkettete_Liste-Kompositum.iml" filepath="$PROJECT_DIR$/.idea/modules/Verkettete Liste/Kompositum/Rekursive_Datenstrukturen.Verkettete_Liste-Kompositum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Verkettete Liste/Kompositum/Rekursive_Datenstrukturen.Verkettete_Liste-Kompositum.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Verkettete Liste/Kompositum/Rekursive_Datenstrukturen.Verkettete_Liste-Kompositum.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Verkettete Liste/Kompositum/Rekursive_Datenstrukturen.Verkettete_Liste-Kompositum.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Verkettete Liste/Kompositum/Rekursive_Datenstrukturen.Verkettete_Liste-Kompositum.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Verkettete Liste/Listifizierung/Rekursive_Datenstrukturen.Verkettete_Liste-Listifizierung.iml" filepath="$PROJECT_DIR$/.idea/modules/Verkettete Liste/Listifizierung/Rekursive_Datenstrukturen.Verkettete_Liste-Listifizierung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Verkettete Liste/Listifizierung/Rekursive_Datenstrukturen.Verkettete_Liste-Listifizierung.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Verkettete Liste/Listifizierung/Rekursive_Datenstrukturen.Verkettete_Liste-Listifizierung.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Verkettete Liste/Listifizierung/Rekursive_Datenstrukturen.Verkettete_Liste-Listifizierung.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Verkettete Liste/Listifizierung/Rekursive_Datenstrukturen.Verkettete_Liste-Listifizierung.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VerweisSchlange/task1/Rekursive_Datenstrukturen.VerweisSchlange-task1.iml" filepath="$PROJECT_DIR$/.idea/modules/VerweisSchlange/task1/Rekursive_Datenstrukturen.VerweisSchlange-task1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VerweisSchlange/task1/Rekursive_Datenstrukturen.VerweisSchlange-task1.main.iml" filepath="$PROJECT_DIR$/.idea/modules/VerweisSchlange/task1/Rekursive_Datenstrukturen.VerweisSchlange-task1.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VerweisSchlange/task1/Rekursive_Datenstrukturen.VerweisSchlange-task1.test.iml" filepath="$PROJECT_DIR$/.idea/modules/VerweisSchlange/task1/Rekursive_Datenstrukturen.VerweisSchlange-task1.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Rekursive_Datenstrukturen.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Rekursive_Datenstrukturen.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Rekursive_Datenstrukturen.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Rekursive_Datenstrukturen.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Rekursive_Datenstrukturen.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Rekursive_Datenstrukturen.util.test.iml" />
+    </modules>
+  </component>
+</project>

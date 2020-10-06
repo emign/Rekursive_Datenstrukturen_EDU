@@ -1,0 +1,11 @@
+title: Rekursive Datenstrukturen
+language: English
+summary: |-
+  Kotlin course.
+  Created: Oct 5, 2020, 2:40:22 PM.
+programming_language: Kotlin
+solutions_hidden: true
+content:
+- VerweisSchlange
+- Verkettete Liste
+- Rekursion

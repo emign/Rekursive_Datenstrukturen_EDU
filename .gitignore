@@ -1,0 +1,5 @@
+# Project exclude paths
+/.coursecreator/
+/.gradle/
+/Verkettete Liste/Listifizierung/build/
+/VerweisSchlange/task1/build/

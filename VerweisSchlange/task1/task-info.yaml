@@ -1,0 +1,20 @@
+type: edu
+files:
+- name: src/Task.kt
+  visible: true
+- name: test/Tests.kt
+  visible: false
+- name: src/Person.kt
+  visible: true
+- name: src/VerweisSchlange.kt
+  visible: true
+  placeholders:
+  - offset: 218
+    length: 111
+    placeholder_text: TODO()
+  - offset: 380
+    length: 97
+    placeholder_text: TODO()
+  - offset: 539
+    length: 124
+    placeholder_text: TODO()
